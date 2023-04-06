@@ -3,3 +3,4 @@ test string 2
 branch1 string 1
 master string1
 master string2
+branch1 string 2
